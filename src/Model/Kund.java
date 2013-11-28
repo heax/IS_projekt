@@ -4,6 +4,7 @@ public class Kund {
 
 	public Kund() {
 		//hej
+		//tjaaaa
 		
 	}
 
