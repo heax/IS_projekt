@@ -6,6 +6,7 @@ public class Kund {
 		//hej
 		//tjaaaa
 		//hejsan
+		System.out.println("Det funkar!");
 		
 	}
 
