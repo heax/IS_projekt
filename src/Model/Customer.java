@@ -1,8 +1,8 @@
 package Model;
 
-public class Kund {
+public class Customer {
 
-	public Kund() {
+	public Customer() {
 		//hej
 		//tjaaaa
 		//hejsan
